@@ -1,2 +1,2 @@
 # herelleviridae
-Scripts for the Herelleviridae taxonomy paper
+Scripts and data for the Herelleviridae taxonomy paper
